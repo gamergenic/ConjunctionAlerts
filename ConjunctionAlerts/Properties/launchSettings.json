@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConjunctionAlerts": {
+      "commandName": "Project",
+      "commandLineArgs": "-u SPACETRACK_USER -p  SPACETRACK_PASSWORD"
+    }
+  }
+}
